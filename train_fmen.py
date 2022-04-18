@@ -149,7 +149,7 @@ class TRAIN_FMEN(nn.Module):
 
     Diagram:
         --Conv--Conv-HFAB-[ERB-HFAB]*down_blocks-Conv-+-Upsample--
-               |_____________________________________________|
+               |______________________________________|
 
     Args:
         down_blocks (int): Number of [ERB-HFAB] pairs.
