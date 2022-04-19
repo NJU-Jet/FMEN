@@ -1,7 +1,7 @@
 # FMEN
 Lowest memory consumption and second shortest runtime in NTIRE 2022 on Efficient Super-Resolution.
 
-Our paper: [Fast and Memory-Efficient Network Towards Efficient Image Super-Resolution ]().
+Our paper: [Fast and Memory-Efficient Network Towards Efficient Image Super-Resolution ](https://arxiv.org/abs/2204.08397).
 
 # Main Contribution
 1. Enhanced Residual Block.
