@@ -9,6 +9,6 @@ Our paper: [Fast and Memory-Efficient Network Towards Efficient Image Super-Reso
 3. Batch Normalization layers can be applied to attention branch to boost performance.
 
 # Train
-Our goal is to design a strightforward but powerful backbone for lightweight image super-resolution, so the testing model is really simple (only contains five highly optimized operators: 3x3 convolution, LeakyReLU, element-wise addition, element-wise multiplication and sigmoid). 
+Our goal is to design a strightforward but powerful backbone for lightweight image super-resolution, so the testing model topology is really simple (only contains five highly optimized operators: 3x3 convolution, LeakyReLU, element-wise addition, element-wise multiplication and sigmoid). 
 
 Since there are no other tricks, you can directly adopt EDSR framework to train the model.
